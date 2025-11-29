@@ -76,4 +76,4 @@ This repository includes:
 
 - Source code
 - README
-- Screenshots (Postman )
+- Screenshots (Postman + IntelliJ)
